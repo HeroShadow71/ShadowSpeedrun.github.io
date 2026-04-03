@@ -70,19 +70,25 @@ It is possible to duplicate points by jumping or using the satellite laser, thou
 
 ## Larvae Kill Duplication
 It is very similar to artificial chaos point duplication explained above but it can also count towards kill count (e.g. Death Ruins Hero mission).
+![type:video](https://youtube.com/embed/D4trNUHRl8Q)
 
 ## Strafe Tricks
 ### Fast Slide Cancel
 After sliding, you can normally stop it by jumping, but this causes a backflip jump which loses some time. By jumping while holding strafe, you can avoid the backflip and instead perform a short strafe jump.
+![type:video](https://youtube.com/embed/Svh7nG3ezd8)
 
 ### Skip Pick Up / Drop Animation
 While holding the strafe button after running at a certain speed, you are able to pick up and drop weapons without playing the animation. There is a visual cue for when this is possible: Shadow's shoes have flames on them.
+![type:video](https://youtube.com/embed/-xvKQELqK5w)
 
 ### Rail Phase Through
 In certain rails, it's possible to phase downward by strafe jumping. This trick is very useful in the Lava Shelter Hero mission.
+![type:video](https://youtube.com/embed/J9qajqWSGR0)
 
 ### Bigger Rocket Jump
 Strafe jumping out of the rocket gives additional height and horizontal momentum. This trick is only useful for Lethal Highway, as it allows you to skip the poles.
+![type:video](https://youtube.com/embed/-NvGJhdbEOo)
 
 ## Mid Air Spindash Charge
 Getting near the edge of a floor or certain objects allows you to charge a spindash while in mid air for a brief period. Rarely, you can also perform a jump dash. The raycast for 'isShadow on the ground' extends further than the actual player collision.
+![type:video](https://youtube.com/embed/UrC97qbdapI)
