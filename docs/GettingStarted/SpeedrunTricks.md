@@ -1,7 +1,7 @@
 # Speedrun Tricks Explained
 
 ## Faster Rank Screen / Stage Result Screen
-After completing a stage, if you press the Start button shortly after the letter rank is on screen you will begin the fadescreen earlier. This is to skip the "Hmph, perfect" line that plays when getting an A rank. Note that even if you get a rank below an A, the waiting time without pressing Start is the same.
+After completing a stage, if you press the Start / A button shortly after the letter rank is on screen you will begin the fadescreen earlier. This is to skip the "Hmph, perfect" line that plays when getting an A rank. Note that even if you get a rank below an A, the waiting time without pressing Start is the same.
 
 ## Chaos Control Glitch (CCG)
 In the older builds of the game, there as a bug in the code that allowed an action to be performed after pressing the button to enter the Checkpoint Menu. One of those actions happens to be acting a Chaos Power Dark or Hero.  For Dark it's not that useful, but for Hero it is VERY useful.  While the checkpoint menu is up, the game timers are frozen as being in a checkpoint menu is essentially a soft pausing of the game. Because of this, once the power of Chaos Control starts while in a checkpoint menu, the player will begin to move in the world, and the timer / chaos power meter remain frozen, allowing for infinite Chaos Control. This is pretty broken for some stages, but others have points that prevent Chaos Control from continuing, and will also stop this glitch.
@@ -65,5 +65,24 @@ The maximum spindash distance can be achieved with exactly 1.00 seconds, with a 
 ```
 
 ## Artificial Chaos Point Duplication
-The amount of points you duplicate are based on how many individual separate chibis are destroyed in the same frame when the health of the artifical chaos reaches 0.
+The amount of points you duplicate are based on how many individual separate chibis are destroyed in the same frame when the health of the artificial chaos reaches 0.
 It is possible to duplicate points by jumping or using the satellite laser, though using the omochao gun can provide huge multipliers not possible by jumping / satellite laser.
+
+## Larvae Kill Duplication
+It is very similar to artificial chaos point duplication explained above but it can also count towards kill count (e.g. Death Ruins Hero mission).
+
+## Strafe Tricks
+### Fast Slide Cancel
+After sliding, you can normally stop it by jumping, but this causes a backflip jump which loses some time. By jumping while holding strafe, you can avoid the backflip and instead perform a short strafe jump.
+
+### Skip Pick Up / Drop Animation
+While holding the strafe button after running at a certain speed, you are able to pick up and drop weapons without playing the animation. There is a visual cue for when this is possible: Shadow's shoes have flames on them.
+
+### Rail Phase Through
+In certain rails, it's possible to phase downward by strafe jumping. This trick is very useful in the Lava Shelter Hero mission.
+
+### Bigger Rocket Jump
+Strafe jumping out of the rocket gives additional height and horizontal momentum. This trick is only useful for Lethal Highway, as it allows you to skip the poles.
+
+## Mid Air Spindash Charge
+Getting near the edge of a floor or certain objects allows you to charge a spindash while in mid air for a brief period. Rarely, you can also perform a jump dash. The raycast for 'isShadow on the ground' extends further than the actual player collision.
